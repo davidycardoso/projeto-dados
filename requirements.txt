@@ -1,4 +1,32 @@
+# Bibliotecas básicas
 pandas
-matplotlib
 numpy
+
+# Visualização de dados
+matplotlib
 seaborn
+plotly
+
+# Análise estatística e matemática
+scipy
+statsmodels
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Jupyter notebook/lab (necessário pro ambiente Binder)
+notebook
+jupyterlab
+
+# Pré-processamento e manipulação de dados
+openpyxl     # leitura de arquivos .xlsx
+xlrd         # leitura de arquivos Excel antigos
+json5
+requests     # para fazer requisições HTTP
+beautifulsoup4 # para web scraping
+lxml         # parser HTML/XML
+
+# Extras úteis
+tqdm         # barra de progresso
+ipython
